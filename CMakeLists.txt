@@ -397,6 +397,11 @@ IF(BUILD_MAIN)
 		TARGET_LINK_LIBRARIES(main ${MANDATORY_LIBRARIES} pagmo_static)
 ENDIF(BUILD_MAIN)
 
+# Link bbob2015 to pagmo_static library.
+ADD_EXECUTABLE(bbob bbob.cpp)
+TARGET_LINK_LIBRARIES(bbob ${MANDATORY_LIBRARIES} pagmo_static)
+
+
 IF(ENABLE_TESTS)
 	ADD_SUBDIRECTORY("${CMAKE_SOURCE_DIR}/tests")
 	FILE(COPY "${CMAKE_SOURCE_DIR}/tests/hypervolume_test_data/" DESTINATION "${CMAKE_BINARY_DIR}/tests/hypervolume_test_data/")
