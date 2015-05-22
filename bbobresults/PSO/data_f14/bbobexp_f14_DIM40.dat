@@ -1,0 +1,56 @@
+% function evaluation | noise-free fitness - Fopt (-5.235000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +1.204582916e+02 +1.204582916e+02 +6.810829159e+01 +6.810829159e+01
+13 +9.151115242e+01 +9.151115242e+01 +3.916115242e+01 +3.916115242e+01
+182 +6.260858488e+01 +6.260858488e+01 +1.025858488e+01 +1.025858488e+01
+% function evaluation | noise-free fitness - Fopt (-1.795400000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +5.639093244e+01 +5.639093244e+01 -1.231490676e+02 -1.231490676e+02
+151 +3.949487230e+01 +3.949487230e+01 -1.400451277e+02 -1.400451277e+02
+% function evaluation | noise-free fitness - Fopt (7.731000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +6.761769374e+01 +6.761769374e+01 +1.449276937e+02 +1.449276937e+02
+17 +6.199522901e+01 +6.199522901e+01 +1.393052290e+02 +1.393052290e+02
+201 +3.931813756e+01 +3.931813756e+01 +1.166281376e+02 +1.166281376e+02
+% function evaluation | noise-free fitness - Fopt (3.992000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +7.156000503e+01 +7.156000503e+01 +1.114800050e+02 +1.114800050e+02
+4 +5.828149054e+01 +5.828149054e+01 +9.820149054e+01 +9.820149054e+01
+66 +3.787232352e+01 +3.787232352e+01 +7.779232352e+01 +7.779232352e+01
+% function evaluation | noise-free fitness - Fopt (-5.661000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +1.014731645e+02 +1.014731645e+02 +4.486316454e+01 +4.486316454e+01
+2 +8.777753916e+01 +8.777753916e+01 +3.116753916e+01 +3.116753916e+01
+136 +6.155829011e+01 +6.155829011e+01 +4.948290107e+00 +4.948290107e+00
+% function evaluation | noise-free fitness - Fopt (1.686600000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +1.711354681e+02 +1.711354681e+02 +3.397954681e+02 +3.397954681e+02
+2 +1.388477102e+02 +1.388477102e+02 +3.075077102e+02 +3.075077102e+02
+168 +9.973203177e+01 +9.973203177e+01 +2.683920318e+02 +2.683920318e+02
+% function evaluation | noise-free fitness - Fopt (4.076900000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +1.127227953e+02 +1.127227953e+02 +5.204127953e+02 +5.204127953e+02
+27 +9.532647854e+01 +9.532647854e+01 +5.030164785e+02 +5.030164785e+02
+462 +6.245294999e+01 +6.245294999e+01 +4.701429500e+02 +4.701429500e+02
+% function evaluation | noise-free fitness - Fopt (5.592000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +6.612868589e+01 +6.612868589e+01 +1.220486859e+02 +1.220486859e+02
+6 +6.100239973e+01 +6.100239973e+01 +1.169223997e+02 +1.169223997e+02
+221 +3.949415795e+01 +3.949415795e+01 +9.541415795e+01 +9.541415795e+01
+% function evaluation | noise-free fitness - Fopt (4.619000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +7.194793136e+01 +7.194793136e+01 +1.181379314e+02 +1.181379314e+02
+11 +6.223498448e+01 +6.223498448e+01 +1.084249845e+02 +1.084249845e+02
+226 +3.972441773e+01 +3.972441773e+01 +8.591441773e+01 +8.591441773e+01
+% function evaluation | noise-free fitness - Fopt (-3.994000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +5.117632074e+01 +5.117632074e+01 +1.123632074e+01 +1.123632074e+01
+70 +3.964944728e+01 +3.964944728e+01 -2.905527160e-01 -2.905527160e-01
+% function evaluation | noise-free fitness - Fopt (-1.000000000000e+03) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +5.141703791e+01 +5.141703791e+01 -9.485829621e+02 -9.485829621e+02
+67 +3.959605331e+01 +3.959605331e+01 -9.604039467e+02 -9.604039467e+02
+% function evaluation | noise-free fitness - Fopt (-5.039000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +6.177954812e+01 +6.177954812e+01 +1.138954812e+01 +1.138954812e+01
+90 +3.824498500e+01 +3.824498500e+01 -1.214501500e+01 -1.214501500e+01
+% function evaluation | noise-free fitness - Fopt (-7.027000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +1.252214816e+02 +1.252214816e+02 +5.495148157e+01 +5.495148157e+01
+82 +9.985576903e+01 +9.985576903e+01 +2.958576903e+01 +2.958576903e+01
+% function evaluation | noise-free fitness - Fopt (-6.944000000000e+01) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +4.828880812e+01 +4.828880812e+01 -2.115119188e+01 -2.115119188e+01
+12 +3.915935580e+01 +3.915935580e+01 -3.028064420e+01 -3.028064420e+01
+262 +2.499528474e+01 +2.499528474e+01 -4.444471526e+01 -4.444471526e+01
+% function evaluation | noise-free fitness - Fopt (1.261900000000e+02) | best noise-free fitness - Fopt | measured fitness | best measured fitness | x1 | x2...
+1 +1.005711731e+02 +1.005711731e+02 +2.267611731e+02 +2.267611731e+02
+3 +8.752045507e+01 +8.752045507e+01 +2.137104551e+02 +2.137104551e+02
+65 +6.176231116e+01 +6.176231116e+01 +1.879523112e+02 +1.879523112e+02
+477 +3.965633372e+01 +3.965633372e+01 +1.658463337e+02 +1.658463337e+02
